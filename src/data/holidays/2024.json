@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2024-01-01",
+    "code": "newYearsDay",
+    "name": {
+      "en": "New Year's Day",
+      "sv": "nyårsdagen"
+    }
+  },
+  {
+    "date": "2024-01-06",
+    "code": "epiphany",
+    "name": {
+      "en": "Epiphany",
+      "sv": "trettondedag jul"
+    }
+  },
+  {
+    "date": "2024-03-29",
+    "code": "goodFriday",
+    "name": {
+      "en": "Good Friday",
+      "sv": "långfredagen"
+    }
+  },
+  {
+    "date": "2024-03-30",
+    "code": "holySaturday",
+    "name": {
+      "en": "Easter Eve",
+      "sv": "påskafton"
+    }
+  },
+  {
+    "date": "2024-03-31",
+    "code": "easterSunday",
+    "name": {
+      "en": "Easter Sunday",
+      "sv": "påskdagen"
+    }
+  },
+  {
+    "date": "2024-04-01",
+    "code": "easterMonday",
+    "name": {
+      "en": "Easter Monday",
+      "sv": "annandag påsk"
+    }
+  },
+  {
+    "date": "2024-05-01",
+    "code": "mayDay",
+    "name": {
+      "en": "May Day",
+      "sv": "första maj"
+    }
+  },
+  {
+    "date": "2024-05-09",
+    "code": "ascensionDay",
+    "name": {
+      "en": "Ascension Day",
+      "sv": "Kristi himmelsfärdsdag"
+    }
+  },
+  {
+    "date": "2024-05-18",
+    "code": "whitsunEve",
+    "name": {
+      "en": "Whitsun Eve",
+      "sv": "pingstafton"
+    }
+  },
+  {
+    "date": "2024-05-19",
+    "code": "whitsun",
+    "name": {
+      "en": "whitsun",
+      "sv": "pingstdagen"
+    }
+  },
+  {
+    "date": "2024-06-06",
+    "code": "nationalDay",
+    "name": {
+      "en": "National Day of Sweden",
+      "sv": "Sveriges nationaldag"
+    }
+  },
+  {
+    "date": "2024-06-21",
+    "code": "midsummerEve",
+    "name": {
+      "en": "Midsummer Eve",
+      "sv": "midsommarafton"
+    }
+  },
+  {
+    "date": "2024-06-22",
+    "code": "midsummerDay",
+    "name": {
+      "en": "Midsummer Day",
+      "sv": "midsommardagen"
+    }
+  },
+  {
+    "date": "2024-11-02",
+    "code": "allSaintsDay",
+    "name": {
+      "en": "All Saints' Day",
+      "sv": "alla helgons dag"
+    }
+  },
+  {
+    "date": "2024-12-24",
+    "code": "christmasEve",
+    "name": {
+      "en": "Christmas Eve",
+      "sv": "julafton"
+    }
+  },
+  {
+    "date": "2024-12-25",
+    "code": "christmasDay",
+    "name": {
+      "en": "Christmas Day",
+      "sv": "juldagen"
+    }
+  },
+  {
+    "date": "2024-12-26",
+    "code": "boxingDay",
+    "name": {
+      "en": "Boxing Day",
+      "sv": "annandag jul"
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "code": "newYearsEve",
+    "name": {
+      "en": "New Year's Eve",
+      "sv": "nyårsafton"
+    }
+  }
+]
