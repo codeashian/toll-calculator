@@ -64,6 +64,8 @@ Request body:
 - Toll-free vehicles:
   - Military vehicles
   - Diplomatic vehicles
+  - Emergency vehicles
+  - Foreign vehicles
 - Toll-free days:
   - Weekends
   - Holidays
